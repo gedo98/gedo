@@ -6,6 +6,7 @@ int main(){
     int index;
     int i;
 
+  
     cout<<"enter your name";
     cin>>name;
     cout<<"enter your index";
